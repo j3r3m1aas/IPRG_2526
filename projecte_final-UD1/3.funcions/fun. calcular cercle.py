@@ -9,3 +9,5 @@ radi = float(input("Introduce el radio del círculo: "))
 area = calcular_area_cercle(radi)
 
 print(f"Radi: {area:.2f}")
+
+#hola
